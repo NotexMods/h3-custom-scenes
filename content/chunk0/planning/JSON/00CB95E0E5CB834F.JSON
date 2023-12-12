@@ -1,0 +1,14 @@
+{
+	"scene": "assembly:/_pro/scenes/_test/notex/test/scene_test.entity",
+	"actors": [],
+	"entrances": [
+		{
+			"id": "57d6ab85-d9c1-4138-aebc-c904ff1bf5a5",
+			"isDefaultSpawn": true,
+			"isPreferredSpawn": true,
+			"WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0"
+		}
+	],
+	"Exits": [],
+	"AgencyPickups": []
+}

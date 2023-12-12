@@ -1,0 +1,44 @@
+{
+	"tempHash": "00A5341BC589592D",
+	"tbluHash": "001260487EB8B9D6",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"feedd11488b36d5c": {
+			"parent": "fffffffffffffffe",
+			"name": "MenuMapSetup_Notex",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"feed46f6843512b0": {
+			"parent": "feedd11488b36d5c",
+			"name": "Scene_Test",
+			"factory": "[assembly:/templates/ui/mapexportentities.template?/menumap.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/ui/mapexportentities.template?/menumap.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_pMetaDataResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00CB95E0E5CB834F",
+						"flag": "5F"
+					}
+				}
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}

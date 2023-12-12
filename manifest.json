@@ -1,9 +1,39 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"id": "Notex.CustomScenes",
+	"name": "Custom Scenes",
+	"description": "Experimentation with custom scenes",
+	"authors": ["Notex"],
+	"contentFolders": ["content"],
+	"blobsFolders": ["blobs"],
+	"localisation": {
+		"english": {
+			"UI_LOCATION_PARENT_NOTEX_COUNTRY": "Notex",
+			"UI_LOCATION_NOTEX_TEST_COUNTRY": "Notex",
+			"UI_LOCATION_PARENT_NOTEX_CITY": "Custom Scenes",
+			"UI_LOCATION_NOTEX_TEST_CITY": "Custom Scenes",
+			"UI_LOCATION_NOTEX_TEST_TITLE": "Test",
+			"UI_CONTRACT_NOTEX_TEST_TITLE": "Test",
+			"UI_CONTRACT_NOTEX_TEST_DESC": "Test",
+			"UI_ENTRANCE_TEST_DEFAULT_NAME": "Default",
+			"UI_ENTRANCE_TEST_DEFAULT_DESCRIPTION": "Default"
+		},
+		"french": {},
+		"italian": {},
+		"german": {},
+		"spanish": {},
+		"russian": {},
+		"chineseSimplified": {},
+		"chineseTraditional": {},
+		"japanese": {}
+	},
+	"packagedefinition": [
+		{
+			"type": "entity",
+			"partition": "season3",
+			"path": "[assembly:/_pro/scenes/_test/notex/test/scene_test.entity].entitytemplate"
+		}
+	],
+	"version": "1.0.0",
+	"frameworkVersion": "2.29.0"
 }

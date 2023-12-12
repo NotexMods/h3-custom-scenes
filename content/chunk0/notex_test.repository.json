@@ -1,0 +1,9 @@
+{
+	"57d6ab85-d9c1-4138-aebc-c904ff1bf5a5": {
+		"ID_": "57d6ab85-d9c1-4138-aebc-c904ff1bf5a5",
+		"Description": "UI_ENTRANCE_TEST_DEFAULT_DESCRIPTION",
+		"Image": "images/notex/test/entrance/default.jpg",
+		"Name": "EntranceTestDefault",
+		"Name_LOC": "UI_ENTRANCE_TEST_DEFAULT_NAME"
+	}
+}

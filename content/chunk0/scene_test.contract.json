@@ -1,0 +1,36 @@
+{
+	"Data": {
+		"EnableSaving": true,
+		"Objectives": [],
+		"Bricks": [],
+		"VR": [],
+		"GameChangers": [],
+		"GameChangerReferences": [],
+		"GameDifficulties": [],
+		"SimulationQualities": []
+	},
+	"Metadata": {
+		"Id": "ff9405f8-9657-40aa-a7dc-cbd2ada99702",
+		"IsPublished": true,
+		"CreationTimestamp": "2015-07-02T15:18:30.1639035+02:00",
+		"CreatorUserId": "00000000-0000-0000-0000-000000000000",
+		"Title": "UI_CONTRACT_NOTEX_TEST_TITLE",
+		"Description": "UI_CONTRACT_NOTEX_TEST_DESC",
+		"TileImage": "images/notex/test/tile.jpg",
+		"CodeName_Hint": "notex_test",
+		"ScenePath": "assembly:/_pro/scenes/_test/notex/test/scene_test.entity",
+		"Location": "LOCATION_NOTEX_TEST",
+		"LastUpdate": "2015-03-11T13:50:08.347Z",
+		"Type": "flashback",
+		"Subtype": "mission",
+		"Release": "1.0.x"
+	},
+	"UserData": {},
+	"SMF": {
+		"destinations": {
+			"addToDestinations": true,
+			"peacockIntegration": true,
+			"narrativeContext": "Mission"
+		}
+	}
+}

@@ -24,7 +24,7 @@
 				"m_pMetaDataResource": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "00CB95E0E5CB834F",
+						"resource": "[assembly:/_pro/scenes/_test/notex/test/scene_test.worldmapmetadata.json].pc_json",
 						"flag": "5F"
 					}
 				}

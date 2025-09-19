@@ -1,14 +1,13 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/quickentity-editor-next/main/src/lib/project-schema.json",
 	"customPaths": [
-		"[assembly:/_pro/scenes/_test/notex/test/scene_test.entity].pc_entitytemplate",
-		"[assembly:/_pro/scenes/_test/notex/test/scene_test.entity].pc_entityblueprint",
-		"[assembly:/_pro/scenes/_test/notex/test/scenario_test.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/_test/notex/test/scenario_test.brick].pc_entityblueprint",
-		"[assembly:/_pro/scenes/bricks/menumapsetup_notex.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/bricks/menumapsetup_notex.brick].pc_entityblueprint",
-		"[assembly:/_pro/scenes/_test/notex/test/scene_test.navp].pc_navp",
+		"[assembly:/_pro/scenes/_test/notex/test/scenario_test.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/_test/notex/test/scene_test.airg].pc_airg",
-		"scene_test.planning.json"
+		"[assembly:/_pro/scenes/_test/notex/test/scene_test.entity].pc_entityblueprint",
+		"[assembly:/_pro/scenes/_test/notex/test/scene_test.entity].pc_entitytemplate",
+		"[assembly:/_pro/scenes/_test/notex/test/scene_test.navp].pc_navp",
+		"[assembly:/_pro/scenes/_test/notex/test/scene_test.worldmapmetadata.json].pc_json",
+		"[assembly:/_pro/scenes/bricks/menumapsetup_notex.brick].pc_entityblueprint",
+		"[assembly:/_pro/scenes/bricks/menumapsetup_notex.brick].pc_entitytype"
 	]
 }

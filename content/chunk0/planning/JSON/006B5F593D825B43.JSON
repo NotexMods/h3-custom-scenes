@@ -9,6 +9,12 @@
 			"WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0"
 		}
 	],
-	"Exits": [],
+	"Exits": [
+		{
+			"id": "47696492-bc0b-46cb-a7eb-b04a3601a4d7",
+			"WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0",
+			"RequireKey": false
+		}
+	],
 	"AgencyPickups": []
 }
